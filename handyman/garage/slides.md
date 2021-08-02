@@ -77,7 +77,7 @@ Visual Studio recovering class model from source code
 
 ---
 
-![_](handyman-vs-marketplace.png)
+![_](/handyman-vs-marketplace.png)
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/andreesteve/crthandyman" target="_blank" alt="GitHub"
